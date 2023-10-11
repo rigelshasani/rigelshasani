@@ -1,7 +1,7 @@
 ### Rigels/Reatleat
 
 I am a:
-- C++/JS/Python Learner
+- C++/JS/Python learner
 - Interested in Operating Systems
 - Computer Science student
 - Manjaro user
