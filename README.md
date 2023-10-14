@@ -16,6 +16,6 @@ I am a:
 - A line assembly project in C++
 
 
-#### Sponsor:
+#### Extras:
 
 - ⚡ Fun fact: I like to run!
