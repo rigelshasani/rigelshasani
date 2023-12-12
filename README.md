@@ -14,7 +14,7 @@ I am a:
 #### Projects:
 
 - A line assembly project in C++
-
+- A ship game using Python's Pygame library.
 
 #### Extras:
 
