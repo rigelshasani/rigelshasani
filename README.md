@@ -15,6 +15,7 @@ I am a:
 
 - A line assembly project in C++
 - A ship game using Python's Pygame library.
+- A social media app based on Pinterest.
 
 #### Extras:
 
