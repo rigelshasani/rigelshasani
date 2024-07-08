@@ -14,9 +14,12 @@ I am a:
 #### Projects:
 
 - A line assembly project in C++
-- A ship game using Python's Pygame library.
-- A social media app based on Pinterest.
+- Swimmer:  A ship game using Python's Pygame library.
+- Ideapot:  A social media app based on Pinterest.
+- BlackBox: A messaging app with a focus on crypography
+- P5 projects: 3D rendering and generative programming using Bezier curves.
 
 #### Extras:
 
-- ⚡ Fun fact: I like to run!
+- I love open source software and am a big proponent for freedom in Information Technology as well as a focus in user privacy, unlimited control of ones' computer, down to the processor controls, and if I can, I want to be able to bring people together and make a positive difference in the world. 
+- ⚡ I love to run!
