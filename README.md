@@ -13,11 +13,12 @@ I am a:
 
 #### Projects:
 
-- A line assembly project in C++
+- A line assembly project in C++ using OOP principles.
+- Ideapot:  A social media app based on Pinterest, utilizing Java Spring, AWS RDS and S3 for the backend and React for the frontend.
+- BlackBox: A fully functioning and fully featured messaging app with a focus on crypography.
 - Swimmer:  A ship game using Python's Pygame library.
-- Ideapot:  A social media app based on Pinterest.
-- BlackBox: A messaging app with a focus on crypography
 - P5 projects: 3D rendering and generative programming using Bezier curves.
+- Caley: A fitness tracker in IOS using Swift and SwiftUI.
 
 #### Extras:
 
